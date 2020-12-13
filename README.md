@@ -8,7 +8,7 @@ Modes:
 ```
 
 #### Example:
-`go run main.go "hello world" decode`
+`go run main.go "hello world" encode`
 
 #### Output:
 ```
